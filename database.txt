@@ -1,0 +1,20 @@
+database 19
+102222 Adaline 77
+101234 Lambert 75
+109281 Jake 90
+102930 Brian 96
+109003 Bobbi 96
+105487 Eunice 66
+109110 Delmar 96
+107890 Rob 78
+102893 John 90
+107811 Katy 72
+100892 Ruth 83
+108233 Sharleen 88
+101999 Brian 78
+106627 Amy 82
+108999 Brianna 71
+107921 Darcey 87
+109155 Adrian 79
+101176 Cyril 97
+108992 Hailey 74
